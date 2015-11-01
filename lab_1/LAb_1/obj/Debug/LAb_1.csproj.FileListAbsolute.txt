@@ -27,3 +27,6 @@ C:\Users\Neurolight\Downloads\lab_1\LAb_1\obj\Debug\LAb_1.csprojResolveAssemblyR
 C:\Users\Neurolight\Downloads\lab_1\LAb_1\obj\Debug\LAb_1.MainForm.resources
 C:\Users\Neurolight\Downloads\lab_1\LAb_1\obj\Debug\LAb_1.Properties.Resources.resources
 C:\Users\Neurolight\Downloads\lab_1\LAb_1\obj\Debug\LAb_1.csproj.GenerateResource.Cache
+C:\Users\Neurolight\Documents\GitHub\Hello\lab_1\LAb_1\bin\Debug\LAb_1.exe.config
+C:\Users\Neurolight\Documents\GitHub\Hello\lab_1\LAb_1\obj\Debug\LAb_1.exe
+C:\Users\Neurolight\Documents\GitHub\Hello\lab_1\LAb_1\obj\Debug\LAb_1.pdb
