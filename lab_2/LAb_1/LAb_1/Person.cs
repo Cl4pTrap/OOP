@@ -47,7 +47,7 @@ namespace LAb_1
                 return date;
             }
         }
-        public int create_year 
+        public int create_year //CreateYear
         {
             set
             {
@@ -61,8 +61,8 @@ namespace LAb_1
                 
         public Person()
         {
-            fName = "Анатолий";
-            lName = "Краснопёров";
+            fName = "Кирилл";
+            lName = "Глущенко";
             date = new DateTime(1990, 1, 1);
         }
 
